@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/toastmanager/hack-the-ice-2024-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/toastmanager/hack-the-ice-2024-backend
